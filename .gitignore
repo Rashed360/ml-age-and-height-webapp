@@ -1,0 +1,5 @@
+# Environments
+.envx
+
+# Build Cache
+__pycache__
